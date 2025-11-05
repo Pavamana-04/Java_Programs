@@ -1,0 +1,9 @@
+com\example\employeeprocessor\config\CorsConfig$1.class
+com\example\employeeprocessor\model\Employee.class
+com\example\employeeprocessor\Controller\EmployeeController.class
+com\example\employeeprocessor\runner\DataLoader.class
+com\example\employeeprocessor\EmployeeJsonProcessorApplication.class
+com\example\employeeprocessor\Service\EmployeeService$1.class
+com\example\employeeprocessor\config\CorsConfig.class
+com\example\employeeprocessor\repository\EmployeeRepository.class
+com\example\employeeprocessor\Service\EmployeeService.class
